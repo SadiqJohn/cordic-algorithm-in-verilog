@@ -1,6 +1,6 @@
 # 32-Bit-Floating-Point-Adder
 ## Architecture
-![alt text](.\architecture.png)
+![alt text](images/architecture.png)
 
 ## Objective
 Design a floating point adder that takes two 32 bit single precision floating point input values that come serially with a time difference of 8 clock cycles between two inputs and stores the resultant value into eight RAMs. Perform the addition operation for 8 sets of input values.
@@ -37,8 +37,8 @@ Design a floating point adder that takes two 32 bit single precision floating po
     * BC.v
     
 ## Simulation on Xilinx ISE with Output for BC.v Test Bench
-![alt text](.\signal_output.png)
-![alt text](.\printed_output.png)
+![alt text](images/signal_output.png)
+![alt text](images/printed_output.png)
   
 *This is a term project for course evaluation of VLSI Laboratory (EC39004) at IIT Kharagpur*
 
